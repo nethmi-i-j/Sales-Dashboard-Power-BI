@@ -1,8 +1,8 @@
 # Sales-Dashboard-Power-BI
 
-![image](https://github.com/nethmi-i-j/Sales-Dashboard-Power-BI/blob/9ad698d2e2957158863e554c07838bd90fc7714a/Sales_Dashboard_.JPG)
-
 An interactive Excel-based Sales Dashboard built to help business stakeholders track sales performance, profitability and key trends across products, categories and payment channels — enabling faster, data-driven decision-making.
+
+![image](https://github.com/nethmi-i-j/Sales-Dashboard-Power-BI/blob/9ad698d2e2957158863e554c07838bd90fc7714a/Sales_Dashboard_.JPG)
 
 ## Objective
 
